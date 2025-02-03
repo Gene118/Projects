@@ -1,4 +1,6 @@
-    "python.linting.blackArgs": [
-        "--experimental-string-processing",
-        "--fast"
-    ],
+    {
+        "python.linting.blackArgs": [
+            "--experimental-string-processing",
+            "--fast"
+        ]
+    }
